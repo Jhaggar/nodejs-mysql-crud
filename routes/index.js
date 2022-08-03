@@ -3,7 +3,7 @@ var app = express()
 
 app.get('/', function(req, res) {
 	// render to views/index.ejs template file
-	res.render('index', {title: 'My Node.js Application for SAPP'})
+	res.render('index', {title: 'My Node.js Application for SAPP Thrid changes'})
 })
 
 /** 
