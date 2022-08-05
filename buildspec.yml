@@ -4,7 +4,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      nodejs: 16.14.2
+      nodejs: 12
    
     commands:
         # installs dependencies into the node_modules/ directory
